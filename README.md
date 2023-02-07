@@ -1,2 +1,3 @@
-# kuka-youbot
-KUKA youbot packages. Updated for ROS Noetic.
+# kuka-youbot-driver
+
+Driver for KUKA youbot. Updated for ROS Noetic)
