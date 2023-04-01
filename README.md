@@ -1,5 +1,8 @@
-youBot API
+KUKA youbot driver package
 ------------
+
+Optimised for ROS Noetic)
+
 
 [API documentation](http://janpaulus.github.com)
 
